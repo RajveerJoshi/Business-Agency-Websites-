@@ -5,3 +5,4 @@ The HTML structure includes various sections such as the header, navigation, mai
 Use CSS styles to define the overall layout, typography, and color scheme of our website. It ensures consistency and visual coherence across different sections and elements.
 Now, use JavaScript code to enable smooth scrolling to the respective section clicked in the navbar.
 Add the CDN links of the below dependencies to your HTML document to implement them.
+ https://www.figma.com/design/mkPKtdD9vFXJWBS4fu4qzX/medical?node-id=0-1&p=f&t=Rhrf18O0TOo8JM1b-0
